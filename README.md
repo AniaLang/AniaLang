@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @AniaLang
-- 👀 I’m interested mainly in front end technologies such as React / React Native
+- 👋 Hi, I’m @AniaLang.
+- 👀 I’m interested mainly in front end technologies such as React / React Native.
+- ✨ I'm learning Angular recently :). 
 - 🌱 I’m currently learning unit tests, node.js and many others.
 
 - 📫 How to reach me anna.jadwiga.lang@gmail.com
